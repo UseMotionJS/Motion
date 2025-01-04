@@ -1,2 +1,1 @@
-# Motion
-The React replacement you've been looking for!
+From everyone at Mindity, we are too lazy to write this, right now.
